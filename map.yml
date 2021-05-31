@@ -1,0 +1,18 @@
+map_name: classic_variations
+games:
+- {game_name: 'Classic: Anzio', file_name: anzio.xml}
+- {game_name: 'Classic: Utah', file_name: utah.xml}
+- {game_name: 'Classic: Omaha', file_name: omaha.xml}
+- {game_name: 'Classic: Iron Blitz 1945A Russia And Japan', file_name: iron_blitz_1945A.xml}
+- {game_name: 'Classic: Iron Blitz 1942A Russia Neutral', file_name: iron_blitz_1942A.xml}
+- {game_name: 'Classic: Kremlin', file_name: kremlin.xml}
+- {game_name: 'Classic: Iron Blitz 2rd Edition', file_name: iron_blitz_2nd_Edition.xml}
+- {game_name: 'Classic: Iron Blitz Cold War', file_name: iron_blitz_Cold_War.xml}
+- {game_name: 'Classic: Iron Blitz 1945B Aggressive Russia', file_name: iron_blitz_1945B.xml}
+- {game_name: 'Classic: Iron Blitz 1939C US Stands Apart', file_name: iron_blitz_1939C.xml}
+- {game_name: 'Classic: Sword', file_name: sword.xml}
+- {game_name: 'Classic: Gold', file_name: gold.xml}
+- {game_name: 'Classic: Battleship Row', file_name: battleship_row.xml}
+- {game_name: 'Classic: Iron Blitz 1939B RussiaInTheAxis', file_name: iron_blitz_1939B.xml}
+- {game_name: 'Classic: Four If By Sea', file_name: four_if_by_sea.xml}
+- {game_name: 'Classic: Iron Blitz 1939A Historical', file_name: iron_blitz_1939A.xml}
