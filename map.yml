@@ -16,3 +16,4 @@ games:
 - {game_name: 'Classic: Iron Blitz 1939B RussiaInTheAxis', file_name: iron_blitz_1939B.xml}
 - {game_name: 'Classic: Four If By Sea', file_name: four_if_by_sea.xml}
 - {game_name: 'Classic: Iron Blitz 1939A Historical', file_name: iron_blitz_1939A.xml}
+- {game_name: 'WW3 Circa 1955', file_name: WorldWar3-1955.xml}
